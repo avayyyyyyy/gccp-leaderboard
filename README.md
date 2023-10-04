@@ -35,7 +35,7 @@ To start developing or running this project locally, follow these steps:
 
 To update the data used by your project, follow these steps:
 
-1. Locate the `public/data.json` file in your project directory. You can access it [here](https://github.com/GDSC-UVPCE/GCCP-Jams/blob/main/public/data.json).
+1. Locate the `public/data.json` file in your project directory. You can access it.
 
 2. Replace the contents of `data.json` with your own JSON data. You can manually edit the file or use a tool to generate the JSON data from other sources.
 
@@ -43,32 +43,15 @@ To update the data used by your project, follow these steps:
 
 That's it! Your project should now use the updated data. 
 
-### how to convert CSV data to JSON 
-   1. Download file in CSV format
+### how to convert CSV data to JSON
 
+   1. Download the file in CSV format
+    
+   3. Upload the file to any CSV to JSON Converter.
       
-       ![image](https://github.com/fenilmodi00/Google-Cloud-Study-Jams/assets/85280060/74856652-2f81-4bd1-921f-9ccbfd7ad10a)
-   2. upload file CSV to this website
-
-       [https://csvjson.com/csv2json]
-      ![image](https://github.com/fenilmodi00/Google-Cloud-Study-Jams/assets/85280060/4ae6b46a-6d6d-48e0-8c52-27d9c6b2a21f)
-   3. Convert data
-
+   4. Convert data
       
-      ![image](https://github.com/fenilmodi00/Google-Cloud-Study-Jams/assets/85280060/a62d1cdd-c9ea-435f-9ca9-10effa05087f)
    7. Copy all converted JSON data
     
-
-      ![image](https://github.com/fenilmodi00/Google-Cloud-Study-Jams/assets/85280060/e7cbf853-ab15-412d-8877-37abd3f7a89c)
-   9. paste JSON data into public/data.json file
+   9. paste JSON data into the public/data.json file
       
-
-## Contributors
-
-Contributions are welcome! 
-    <div>
-      <a href="https://github.com/GDSC-UVPCE/Google-Cloud-Study-Jams/graphs/contributors">
-        <br>
-        <img src="https://contrib.rocks/image?repo=GDSC-UVPCE/Google-Cloud-Study-Jams" />
-      </a>
-    </div>
