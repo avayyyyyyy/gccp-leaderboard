@@ -14,7 +14,7 @@ To start developing or running this project locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd Google-Cloud-Study-Jams
+   cd cloud-leaderboard
    ```
 
 3. Initialize npm:
