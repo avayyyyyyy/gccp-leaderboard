@@ -8,7 +8,7 @@ To start developing or running this project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-    https://github.com/avayyyyyyy/gccp-leaderboard.git
+    git clone https://github.com/avayyyyyyy/gccp-leaderboard.git
    ```
 
 2. Navigate to the project directory:
