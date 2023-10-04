@@ -29,8 +29,6 @@ To start developing or running this project locally, follow these steps:
    npm run dev
    ```
 
-   ![image](https://github.com/fenilmodi00/GCCP-Jams/assets/85280060/75f262e7-da90-4a89-b966-67b3ade7746f)
-
    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Updating Data
