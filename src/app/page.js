@@ -122,9 +122,9 @@ export default function Home() {
         </div>
       </nav>
       <div className="m-auto w-fit mt-10">
-        <Link href="/profilebadge" className="px-3 py-2 bg-blue-500 text-white">
+        {/* <Link href="/profilebadge" className="px-3 py-2 bg-blue-500 text-white">
           Create Badge
-        </Link>
+        </Link> */}
       </div>
 
       <TableIndex />
@@ -132,7 +132,7 @@ export default function Home() {
       <div className="  w-full p-2 text-center bg-gray-900 text-gray-300">
         Devloped By{" "}
         <a href="https://linktr.ee/codingarpan" className="text-orange-400">
-          CodingArpan & Fenil Modi
+          Shubhankit Jain
         </a>{" "}
       </div>
     </>
