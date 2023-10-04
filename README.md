@@ -8,7 +8,7 @@ To start developing or running this project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-    git clone https://github.com/GDSC-UVPCE/Google-Cloud-Study-Jams.git
+    https://github.com/avayyyyyyy/gccp-leaderboard.git
    ```
 
 2. Navigate to the project directory:
