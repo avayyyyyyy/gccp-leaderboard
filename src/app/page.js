@@ -1,9 +1,8 @@
-import Image from 'next/image'
-import Script from 'next/script';
-import Link from 'next/link'
+import Image from "next/image";
+import Script from "next/script";
+import Link from "next/link";
 import TableIndex from "@/components/Table.Index";
 export default function Home() {
-  
   return (
     <>
       {/* <Script
@@ -40,8 +39,8 @@ export default function Home() {
           })();
           `
         }
-      </Script>
-      <nav className='w-full  shadow-md relative '>
+      </Script> */}
+      <nav className="w-full  shadow-md relative ">
         <div className="bg-gray-900 text-blue-500 w-full m-auto text-center p-2 flex justify-center items-center">
           <div className="">
             <Image src="/assets/cloudLg.png" alt="me" width="40" height="40" />
@@ -122,13 +121,20 @@ export default function Home() {
           </div>
         </div>
       </nav>
-      {/* <div className="m-auto w-fit mt-10">
-        <Link href="/profilebadge" className='px-3 py-2 bg-blue-500 text-white'>Create Badge</Link>
+      <div className="m-auto w-fit mt-10">
+        <Link href="/profilebadge" className="px-3 py-2 bg-blue-500 text-white">
+          Create Badge
+        </Link>
       </div>
 
       <TableIndex />
 
-      <div className="  w-full p-2 text-center bg-gray-900 text-gray-300">Devloped By <a href="https://linktr.ee/codingarpan" className="text-orange-400">CodingArpan &  Fenil Modi</a> </div>
+      <div className="  w-full p-2 text-center bg-gray-900 text-gray-300">
+        Devloped By{" "}
+        <a href="https://linktr.ee/codingarpan" className="text-orange-400">
+          CodingArpan & Fenil Modi
+        </a>{" "}
+      </div>
     </>
   );
 }
