@@ -131,7 +131,7 @@ export default function Home() {
 
       <div className="  w-full p-2 text-center bg-gray-900 text-gray-300">
         Devloped By{" "}
-        <a href="https://linktr.ee/codingarpan" className="text-orange-400">
+        <a href="" className="text-orange-400">
           Shubhankit Jain
         </a>{" "}
       </div>
