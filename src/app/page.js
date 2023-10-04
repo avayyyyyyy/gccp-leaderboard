@@ -136,7 +136,7 @@ export default function Home() {
           className="text-orange-400"
         >
           Shubhankit Jain
-        </a>{" "}
+        </a>
       </div>
     </>
   );
