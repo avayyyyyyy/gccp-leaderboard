@@ -98,9 +98,9 @@
     "Enrolment Status": "All Good",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/8aef3700-b940-450e-ab50-d95280369e35",
     "# of Courses Completed": "4",
-    "# of Skill Badges Completed": "2",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
+    "# of Skill Badges Completed": "4",
+    "# of GenAI Game Completed": "1",
+    "Total Completions of both Pathways": "Yes",
     "Redemption Status": "Yes"
   },
   {
@@ -111,9 +111,9 @@
     "Enrolment Status": "All Good",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a9408bcc-fd0f-4cca-ad96-712cd90ac677",
     "# of Courses Completed": "4",
-    "# of Skill Badges Completed": "2",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
+    "# of Skill Badges Completed": "4",
+    "# of GenAI Game Completed": "1",
+    "Total Completions of both Pathways": "Yes",
     "Redemption Status": "Yes"
   },
   {
@@ -124,9 +124,22 @@
     "Enrolment Status": "All Good",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/aba33cf4-f1d4-43c6-a33e-f3869746866f",
     "# of Courses Completed": "4",
-    "# of Skill Badges Completed": "1",
+    "# of Skill Badges Completed": "4",
     "# of GenAI Game Completed": "1",
-    "Total Completions of both Pathways": "No",
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Prince Kumar Singh",
+    "Student Email": "kprinces888@gmail.com",
+    "Institution": "Poornima University - Jaipur",
+    "Enrolment Date & Time": "Tue Sep 26 2023 18:25:45 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/839c5df5-71ad-4453-88da-0f1e8020d0d4",
+    "# of Courses Completed": "4",
+    "# of Skill Badges Completed": "4",
+    "# of GenAI Game Completed": "1",
+    "Total Completions of both Pathways": "Yes",
     "Redemption Status": "Yes"
   },
   {
@@ -137,8 +150,47 @@
     "Enrolment Status": "All Good",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/c1842b0f-b276-4155-b08f-37bf3760ae62",
     "# of Courses Completed": "4",
-    "# of Skill Badges Completed": "1",
+    "# of Skill Badges Completed": "4",
     "# of GenAI Game Completed": "1",
+    "Total Completions of both Pathways": "Yes",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Darshan Jain",
+    "Student Email": "Darshanbarjatya123@gmail.com",
+    "Institution": "Poornima University - Jaipur",
+    "Enrolment Date & Time": "Tue Sep 26 2023 17:21:16 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/014e4b04-4bbd-4107-8d26-125704253cd7",
+    "# of Courses Completed": "4",
+    "# of Skill Badges Completed": "1",
+    "# of GenAI Game Completed": "0",
+    "Total Completions of both Pathways": "No",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Kinshuk Khandelwal",
+    "Student Email": "herekinshuk@gmail.com",
+    "Institution": "Poornima University - Jaipur",
+    "Enrolment Date & Time": "Wed Sep 27 2023 11:21:43 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a1aa3bfb-2a8e-417d-8013-bf3911ad18d8",
+    "# of Courses Completed": "4",
+    "# of Skill Badges Completed": "4",
+    "# of GenAI Game Completed": "0",
+    "Total Completions of both Pathways": "No",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Lochan Dhiran",
+    "Student Email": "lochandhiran1@gmail.com",
+    "Institution": "Poornima University - Jaipur",
+    "Enrolment Date & Time": "Wed Sep 27 2023 19:23:51 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d2e4be12-bc86-41f6-8b09-4d88be2bf09c",
+    "# of Courses Completed": "4",
+    "# of Skill Badges Completed": "0",
+    "# of GenAI Game Completed": "0",
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
@@ -150,6 +202,71 @@
     "Enrolment Status": "All Good",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/b6f85ac3-9c3c-4832-8fa3-dd40692a33c6",
     "# of Courses Completed": "3",
+    "# of Skill Badges Completed": "1",
+    "# of GenAI Game Completed": "0",
+    "Total Completions of both Pathways": "No",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Nitin Kumar Soni",
+    "Student Email": "nksoni4115@gmail.com",
+    "Institution": "Poornima University - Jaipur",
+    "Enrolment Date & Time": "Tue Sep 26 2023 18:33:42 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/530edf7e-c0d3-4254-bdff-4760f92062f6",
+    "# of Courses Completed": "3",
+    "# of Skill Badges Completed": "0",
+    "# of GenAI Game Completed": "0",
+    "Total Completions of both Pathways": "No",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Lavanshu Bansal",
+    "Student Email": "lavanshubansal@gmail.com",
+    "Institution": "Poornima University - Jaipur",
+    "Enrolment Date & Time": "Wed Sep 27 2023 14:31:41 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/000c6638-10fc-42dc-a127-89eea528cd77",
+    "# of Courses Completed": "3",
+    "# of Skill Badges Completed": "0",
+    "# of GenAI Game Completed": "0",
+    "Total Completions of both Pathways": "No",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Hardik Kothari",
+    "Student Email": "kotharihardik775@gmail.com",
+    "Institution": "Poornima University - Jaipur",
+    "Enrolment Date & Time": "Wed Sep 27 2023 17:19:06 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/62a88d98-2446-4e9d-ae70-dc4a8b4dab3e",
+    "# of Courses Completed": "3",
+    "# of Skill Badges Completed": "0",
+    "# of GenAI Game Completed": "1",
+    "Total Completions of both Pathways": "No",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Prince Sharma",
+    "Student Email": "prince.3630221@gmail.com",
+    "Institution": "Poornima University - Jaipur",
+    "Enrolment Date & Time": "Thu Sep 28 2023 18:08:15 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/ea0037aa-8a1c-410f-a832-b266f00205e0",
+    "# of Courses Completed": "3",
+    "# of Skill Badges Completed": "0",
+    "# of GenAI Game Completed": "0",
+    "Total Completions of both Pathways": "No",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Meemansa Sharma",
+    "Student Email": "meemansasharma21@gmail.com",
+    "Institution": "Poornima University - Jaipur",
+    "Enrolment Date & Time": "Sat Sep 23 2023 08:22:53 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/16de9f99-6f91-4f4c-9666-6c4dfda22c97",
+    "# of Courses Completed": "2",
     "# of Skill Badges Completed": "0",
     "# of GenAI Game Completed": "0",
     "Total Completions of both Pathways": "No",
@@ -169,38 +286,12 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Prince Kumar Singh",
-    "Student Email": "kprinces888@gmail.com",
+    "Student Name": "Hardik Patni",
+    "Student Email": "hardikykp2244@gmail.com",
     "Institution": "Poornima University - Jaipur",
-    "Enrolment Date & Time": "Tue Sep 26 2023 18:25:45 GMT+0530 (GMT+05:30)",
+    "Enrolment Date & Time": "Wed Sep 27 2023 19:40:40 GMT+0530 (GMT+05:30)",
     "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/839c5df5-71ad-4453-88da-0f1e8020d0d4",
-    "# of Courses Completed": "2",
-    "# of Skill Badges Completed": "1",
-    "# of GenAI Game Completed": "1",
-    "Total Completions of both Pathways": "No",
-    "Redemption Status": "Yes"
-  },
-  {
-    "Student Name": "Hardik Kothari",
-    "Student Email": "kotharihardik775@gmail.com",
-    "Institution": "Poornima University - Jaipur",
-    "Enrolment Date & Time": "Wed Sep 27 2023 17:19:06 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/62a88d98-2446-4e9d-ae70-dc4a8b4dab3e",
-    "# of Courses Completed": "2",
-    "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
-    "Redemption Status": "Yes"
-  },
-  {
-    "Student Name": "Lochan Dhiran",
-    "Student Email": "lochandhiran1@gmail.com",
-    "Institution": "Poornima University - Jaipur",
-    "Enrolment Date & Time": "Wed Sep 27 2023 19:23:51 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d2e4be12-bc86-41f6-8b09-4d88be2bf09c",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/5714d188-2067-44b6-a560-c58aa0f81a98",
     "# of Courses Completed": "2",
     "# of Skill Badges Completed": "0",
     "# of GenAI Game Completed": "0",
@@ -221,6 +312,19 @@
     "Redemption Status": "Yes"
   },
   {
+    "Student Name": "Akash Pal",
+    "Student Email": "akashpal0915@gmail.com",
+    "Institution": "Poornima University - Jaipur",
+    "Enrolment Date & Time": "Mon Sep 25 2023 20:46:41 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/db5d03f7-dcd5-46ce-984d-f5ed4da1e8e5",
+    "# of Courses Completed": "1",
+    "# of Skill Badges Completed": "0",
+    "# of GenAI Game Completed": "0",
+    "Total Completions of both Pathways": "No",
+    "Redemption Status": "Yes"
+  },
+  {
     "Student Name": "Keshav Sharma",
     "Student Email": "krishsharma9001@gmail.com",
     "Institution": "Poornima University - Jaipur",
@@ -234,12 +338,77 @@
     "Redemption Status": "Yes"
   },
   {
+    "Student Name": "Aditya Narayan",
+    "Student Email": "aditya25328@gmail.com",
+    "Institution": "Poornima University - Jaipur",
+    "Enrolment Date & Time": "Tue Sep 26 2023 19:30:40 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/c78c5466-cc3c-44d9-9426-2cc4c22742c9",
+    "# of Courses Completed": "1",
+    "# of Skill Badges Completed": "0",
+    "# of GenAI Game Completed": "0",
+    "Total Completions of both Pathways": "No",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Narottam Singh Gurjar",
+    "Student Email": "gurjarnstanwar135@gmail.com",
+    "Institution": "Poornima University - Jaipur",
+    "Enrolment Date & Time": "Tue Sep 26 2023 19:58:20 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/343b0828-4519-42d0-9cf2-f1689a690457",
+    "# of Courses Completed": "1",
+    "# of Skill Badges Completed": "0",
+    "# of GenAI Game Completed": "0",
+    "Total Completions of both Pathways": "No",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Kirtan Gupta",
+    "Student Email": "kirtanguptaa@gmail.com",
+    "Institution": "Poornima University - Jaipur",
+    "Enrolment Date & Time": "Wed Sep 27 2023 14:24:01 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/304c672b-6423-4ecd-883d-616f8f9edad9",
+    "# of Courses Completed": "1",
+    "# of Skill Badges Completed": "0",
+    "# of GenAI Game Completed": "0",
+    "Total Completions of both Pathways": "No",
+    "Redemption Status": "Yes"
+  },
+  {
     "Student Name": "Deepanshu Mehra",
     "Student Email": "dm5606821@gmail.com",
     "Institution": "Poornima University - Jaipur",
     "Enrolment Date & Time": "Wed Sep 27 2023 17:35:19 GMT+0530 (GMT+05:30)",
     "Enrolment Status": "All Good",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/6e299d7d-e3e3-4b6d-9ee1-0cb0442dfe23",
+    "# of Courses Completed": "1",
+    "# of Skill Badges Completed": "0",
+    "# of GenAI Game Completed": "0",
+    "Total Completions of both Pathways": "No",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Anshuman Singh Rathore",
+    "Student Email": "ansu.rathore18@gmail.com",
+    "Institution": "Poornima University - Jaipur",
+    "Enrolment Date & Time": "Wed Sep 27 2023 19:40:01 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/8b5bd1e0-4967-429f-a2db-d225bb97fe0f",
+    "# of Courses Completed": "1",
+    "# of Skill Badges Completed": "0",
+    "# of GenAI Game Completed": "0",
+    "Total Completions of both Pathways": "No",
+    "Redemption Status": "Yes"
+  },
+  {
+    "Student Name": "Manish Kumar Kumawat",
+    "Student Email": "manisharunkumawat@gmail.com",
+    "Institution": "Poornima University - Jaipur",
+    "Enrolment Date & Time": "Thu Sep 28 2023 23:01:18 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/acc70173-0e88-4b32-96da-3b1bc079f60c",
     "# of Courses Completed": "1",
     "# of Skill Badges Completed": "0",
     "# of GenAI Game Completed": "0",
@@ -310,19 +479,6 @@
     "# of GenAI Game Completed": "0",
     "Total Completions of both Pathways": "No",
     "Redemption Status": "No"
-  },
-  {
-    "Student Name": "Meemansa Sharma",
-    "Student Email": "meemansasharma21@gmail.com",
-    "Institution": "Poornima University - Jaipur",
-    "Enrolment Date & Time": "Sat Sep 23 2023 08:22:53 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/16de9f99-6f91-4f4c-9666-6c4dfda22c97",
-    "# of Courses Completed": "0",
-    "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
-    "Redemption Status": "Yes"
   },
   {
     "Student Name": "Muskan Sharma",
@@ -793,19 +949,6 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Akash Pal",
-    "Student Email": "akashpal0915@gmail.com",
-    "Institution": "Poornima University - Jaipur",
-    "Enrolment Date & Time": "Mon Sep 25 2023 20:46:41 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/db5d03f7-dcd5-46ce-984d-f5ed4da1e8e5",
-    "# of Courses Completed": "0",
-    "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
-    "Redemption Status": "Yes"
-  },
-  {
     "Student Name": "Ishika Khandelwal",
     "Student Email": "2506ishika@gmail.com",
     "Institution": "Poornima University - Jaipur",
@@ -814,7 +957,7 @@
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/8a39b66b-60b5-4666-b163-0cc89c3747a5",
     "# of Courses Completed": "0",
     "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
+    "# of GenAI Game Completed": "1",
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
@@ -1222,19 +1365,6 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Darshan Jain",
-    "Student Email": "Darshanbarjatya123@gmail.com",
-    "Institution": "Poornima University - Jaipur",
-    "Enrolment Date & Time": "Tue Sep 26 2023 17:21:16 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/014e4b04-4bbd-4107-8d26-125704253cd7",
-    "# of Courses Completed": "0",
-    "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
-    "Redemption Status": "Yes"
-  },
-  {
     "Student Name": "Mayank Ahlawat",
     "Student Email": "mayankahlawat2005@gmail.com",
     "Institution": "Poornima University - Jaipur",
@@ -1271,7 +1401,7 @@
     "# of Skill Badges Completed": "0",
     "# of GenAI Game Completed": "0",
     "Total Completions of both Pathways": "No",
-    "Redemption Status": "Yes"
+    "Redemption Status": "No"
   },
   {
     "Student Name": "Gaurav Pehlajani",
@@ -1352,19 +1482,6 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Nitin Kumar Soni",
-    "Student Email": "nksoni4115@gmail.com",
-    "Institution": "Poornima University - Jaipur",
-    "Enrolment Date & Time": "Tue Sep 26 2023 18:33:42 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/530edf7e-c0d3-4254-bdff-4760f92062f6",
-    "# of Courses Completed": "0",
-    "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
-    "Redemption Status": "Yes"
-  },
-  {
     "Student Name": "Sujal Sharma",
     "Student Email": "sujal0604sharma@gmail.com",
     "Institution": "Poornima University - Jaipur",
@@ -1412,7 +1529,7 @@
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/c1dd31d5-8f4b-482a-8d0a-3bd3de475df2",
     "# of Courses Completed": "0",
     "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
+    "# of GenAI Game Completed": "1",
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
@@ -1662,19 +1779,6 @@
     "# of GenAI Game Completed": "0",
     "Total Completions of both Pathways": "No",
     "Redemption Status": "No"
-  },
-  {
-    "Student Name": "Aditya Narayan",
-    "Student Email": "aditya25328@gmail.com",
-    "Institution": "Poornima University - Jaipur",
-    "Enrolment Date & Time": "Tue Sep 26 2023 19:30:40 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/c78c5466-cc3c-44d9-9426-2cc4c22742c9",
-    "# of Courses Completed": "0",
-    "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
-    "Redemption Status": "Yes"
   },
   {
     "Student Name": "Krishna Soni",
@@ -2054,19 +2158,6 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Narottam Singh Gurjar",
-    "Student Email": "gurjarnstanwar135@gmail.com",
-    "Institution": "Poornima University - Jaipur",
-    "Enrolment Date & Time": "Tue Sep 26 2023 19:58:20 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/343b0828-4519-42d0-9cf2-f1689a690457",
-    "# of Courses Completed": "0",
-    "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
-    "Redemption Status": "Yes"
-  },
-  {
     "Student Name": "krishna singh rathore",
     "Student Email": "krishnasinghrathore558@gmail.com",
     "Institution": "Poornima University - Jaipur",
@@ -2442,19 +2533,6 @@
     "# of GenAI Game Completed": "0",
     "Total Completions of both Pathways": "No",
     "Redemption Status": "No"
-  },
-  {
-    "Student Name": "Kinshuk Khandelwal",
-    "Student Email": "herekinshuk@gmail.com",
-    "Institution": "Poornima University - Jaipur",
-    "Enrolment Date & Time": "Wed Sep 27 2023 11:21:43 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/a1aa3bfb-2a8e-417d-8013-bf3911ad18d8",
-    "# of Courses Completed": "0",
-    "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
-    "Redemption Status": "Yes"
   },
   {
     "Student Name": "Gungun vyas",
@@ -2834,32 +2912,6 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Kirtan Gupta",
-    "Student Email": "kirtanguptaa@gmail.com",
-    "Institution": "Poornima University - Jaipur",
-    "Enrolment Date & Time": "Wed Sep 27 2023 14:24:01 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/304c672b-6423-4ecd-883d-616f8f9edad9",
-    "# of Courses Completed": "0",
-    "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
-    "Redemption Status": "Yes"
-  },
-  {
-    "Student Name": "Lavanshu Bansal",
-    "Student Email": "lavanshubansal@gmail.com",
-    "Institution": "Poornima University - Jaipur",
-    "Enrolment Date & Time": "Wed Sep 27 2023 14:31:41 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/000c6638-10fc-42dc-a127-89eea528cd77",
-    "# of Courses Completed": "0",
-    "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
-    "Redemption Status": "Yes"
-  },
-  {
     "Student Name": "Khushveer Singh Rathore",
     "Student Email": "smackymamta@gmail.com",
     "Institution": "Poornima University - Jaipur",
@@ -3211,19 +3263,6 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Anshuman Singh Rathore",
-    "Student Email": "ansu.rathore18@gmail.com",
-    "Institution": "Poornima University - Jaipur",
-    "Enrolment Date & Time": "Wed Sep 27 2023 19:40:01 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/8b5bd1e0-4967-429f-a2db-d225bb97fe0f",
-    "# of Courses Completed": "0",
-    "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
-    "Redemption Status": "Yes"
-  },
-  {
     "Student Name": "Harsh Mamnani",
     "Student Email": "harshmamnani2605@gmail.com",
     "Institution": "Poornima University - Jaipur",
@@ -3248,19 +3287,6 @@
     "# of GenAI Game Completed": "0",
     "Total Completions of both Pathways": "No",
     "Redemption Status": "No"
-  },
-  {
-    "Student Name": "Hardik Patni",
-    "Student Email": "hardikykp2244@gmail.com",
-    "Institution": "Poornima University - Jaipur",
-    "Enrolment Date & Time": "Wed Sep 27 2023 19:40:40 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/5714d188-2067-44b6-a560-c58aa0f81a98",
-    "# of Courses Completed": "0",
-    "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
-    "Redemption Status": "Yes"
   },
   {
     "Student Name": "Parth mishra",
@@ -3679,19 +3705,6 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Prince Sharma",
-    "Student Email": "prince.3630221@gmail.com",
-    "Institution": "Poornima University - Jaipur",
-    "Enrolment Date & Time": "Thu Sep 28 2023 18:08:15 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/ea0037aa-8a1c-410f-a832-b266f00205e0",
-    "# of Courses Completed": "0",
-    "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
-    "Redemption Status": "Yes"
-  },
-  {
     "Student Name": "Yash Rathore",
     "Student Email": "2022btechcsbyash12328@poornima.edu.in",
     "Institution": "Poornima University - Jaipur",
@@ -3809,19 +3822,6 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Manish Kumar Kumawat",
-    "Student Email": "manisharunkumawat@gmail.com",
-    "Institution": "Poornima University - Jaipur",
-    "Enrolment Date & Time": "Thu Sep 28 2023 23:01:18 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/acc70173-0e88-4b32-96da-3b1bc079f60c",
-    "# of Courses Completed": "0",
-    "# of Skill Badges Completed": "0",
-    "# of GenAI Game Completed": "0",
-    "Total Completions of both Pathways": "No",
-    "Redemption Status": "Yes"
-  },
-  {
     "Student Name": "Kshitij Singh",
     "Student Email": "raftarkshitigh@gmail.com",
     "Institution": "Poornima University - Jaipur",
@@ -3910,6 +3910,6 @@
     "# of Skill Badges Completed": "0",
     "# of GenAI Game Completed": "0",
     "Total Completions of both Pathways": "No",
-    "Redemption Status": "No"
+    "Redemption Status\r": "No"
   }
 ]
