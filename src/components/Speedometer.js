@@ -27,10 +27,10 @@ function Speedometer({ completion }) {
     <div className="relative w-full flex justify-center items-center">
       <div className="relative w-40 h-40 rounded-full bg-gray-400 flex justify-center items-center overflow-hidden">
         <div className="absolute w-32 h-32 bg-white rounded-full">
-          <div className="bg-green-500 w-28 h-28 absolute rotate-[] -bottom-2 -right-12"></div>
+          <div className="bg-red-500 w-28 h-28 absolute rotate-[30deg] -left-20 -bottom-2 shadow-xl"></div>
           <div className="bg-yellow-500 w-28 h-28 absolute rotate-[-30deg] -top-12 right-0 "></div>
           <div className="bg-yellow-500 w-28 h-28 absolute rotate-0 -top-5 -left-12"></div>
-          <div className="bg-red-500 w-28 h-28 absolute rotate-[30deg] -left-20 -bottom-2 shadow-xl"></div>
+          <div className="bg-green-500 w-28 h-28 absolute rotate-[] -bottom-2 -right-12"></div>
         </div>
 
         <div className="relative w-32 h-32 bg-white rounded-full "></div>
