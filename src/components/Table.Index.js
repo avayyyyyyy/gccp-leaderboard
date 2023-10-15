@@ -38,7 +38,7 @@ function TableIndex() {
     <div className="w-full relative px-3">
       <div className="sec m-auto my-10 space-y-8 w-1/2 mob:w-full flex flex-col">
         <div className="message bg-yellow-100 text-yellow-700 p-5 rounded-lg shadow-lg shadow-yellow-300/30 text-center border border-yellow-300/30">
-          <p className="text-center">-: Todays Quote! :-</p>
+          <p className="text-center">-: Todays Quote :-</p>
           <p>
             Engineering is the art of directing the great sources of power in
             nature for the use and convenience of man.
