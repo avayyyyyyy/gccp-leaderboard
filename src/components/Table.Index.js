@@ -39,7 +39,11 @@ function TableIndex() {
       <div className="sec m-auto my-10 space-y-8 w-1/2 mob:w-full flex flex-col">
         <div className="message bg-yellow-100 text-yellow-700 p-5 rounded-lg shadow-lg shadow-yellow-300/30 text-center border border-yellow-300/30">
           <p className="text-center">-: Todays Quote :-</p>
-          <p>Innovation is the calling card of the future.</p>
+          <p>
+            To the optimist, the glass is half full. To the pessimist, the glass
+            is half empty. To the engineer, the glass is twice as big as it
+            needs to be.
+          </p>
         </div>
         <Speedometer completion={EligibleforSwags} />
 
