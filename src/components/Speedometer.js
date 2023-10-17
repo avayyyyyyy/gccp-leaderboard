@@ -53,7 +53,7 @@ function Speedometer({ completion }) {
         <p className="bottom-0">
           {animationValue > 40
             ? animationValue > 60
-              ? animationValue > 80
+              ? animationValue >= 80
                 ? "Outstanding"
                 : "Level 1"
               : "Level 2"
