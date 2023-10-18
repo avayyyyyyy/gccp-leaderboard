@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from "react";
 import TableBody from "./TableBody";
 import dataArr from "../../public/data.json";
-import Speedometer from "./Speedometer";
+// import Speedometer from "./Speedometer";
 
 function TableIndex() {
   // JSON file gone print here
@@ -45,7 +45,7 @@ function TableIndex() {
             needs to be.
           </p>
         </div>
-        <Speedometer completion={EligibleforSwags} />
+        {/* <Speedometer completion={EligibleforSwags} /> */}
 
         <div className="info flex mob:flex-col mob:justify-center mob:items-center mob:space-y-10 mob:p-5 justify-evenly space-x-3 mob:space-x-0">
           <div className="eligibleforswag w-fit mob:w-full h-20 p-5 space-x-5 rounded-lg flex flex-row justify-evenly mob:justify-between items-center bg-green-50 shadow-lg shadow-green-300/30 border border-green-200">
