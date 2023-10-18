@@ -36,7 +36,7 @@ function Speedometer({ completion }) {
         <div className="relative w-32 h-32 bg-white rounded-full "></div>
 
         <svg
-          className="absolute z-10 w-40 h-20 -left-0 bottom-5 rotate-[150deg]   flex justify-center items-center text-center"
+          className="absolute z-10 w-40 h-20 -left-0 bottom-5 rotate-[160deg]   flex justify-center items-center text-center"
           viewBox="0 0 528 52"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
