@@ -13,10 +13,10 @@ function TableIndex() {
 
   const calculateTotalEligibility = () => {
     let total = 0;
-    data.forEach((ele) => {
-      ele["Total Completions of both Pathways"] == "Yes" && total++;
-    });
-    setEligibleforSwags(total);
+    // data.forEach((ele) => {
+    //   ele["Total Completions of both Pathways"] == "Yes" && total++;
+    // });
+    setEligibleforSwags("Top 80");
   };
 
   const searchname = (name) => {
