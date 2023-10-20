@@ -40,9 +40,8 @@ function TableIndex() {
         <div className="message bg-yellow-100 text-yellow-700 p-5 rounded-lg shadow-lg shadow-yellow-300/30 text-center border border-yellow-300/30">
           <p className="text-center">-: Todays Quote :-</p>
           <p>
-            To the optimist, the glass is half full. To the pessimist, the glass
-            is half empty. To the engineer, the glass is twice as big as it
-            needs to be.
+            An engineer's desk should be the messiest one, because it's a
+            beautiful mess of creativity and innovation.
           </p>
         </div>
         {/* <Speedometer completion={EligibleforSwags} /> */}
