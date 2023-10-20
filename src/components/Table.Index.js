@@ -40,8 +40,8 @@ function TableIndex() {
         <div className="message bg-yellow-100 text-yellow-700 p-5 rounded-lg shadow-lg shadow-yellow-300/30 text-center border border-yellow-300/30">
           <p className="text-center">-: Todays Quote :-</p>
           <p>
-            An engineer's desk should be the messiest one, because it's a
-            beautiful mess of creativity and innovation.
+            Engineers are the ones who do for a dollar what any fool can do for
+            ten.
           </p>
         </div>
         {/* <Speedometer completion={EligibleforSwags} /> */}
