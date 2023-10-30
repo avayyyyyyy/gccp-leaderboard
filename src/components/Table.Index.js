@@ -43,7 +43,7 @@ function TableIndex() {
           <p>
             Gratitude to every student who contributed to the success of our
             inaugural Google event. Your participation was invaluable, and we
-            hope you gained valuable insights about the cloud. ❤️
+            hope you gained valuable insights about the cloud. 🚀❤️🙌
           </p>
         </div>
         {/* <Speedometer completion={EligibleforSwags} /> */}
