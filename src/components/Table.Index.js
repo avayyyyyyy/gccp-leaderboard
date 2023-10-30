@@ -65,7 +65,7 @@ function TableIndex() {
             </p>
             <p className="no text-2xl border-l-2 border-l-red-700 pl-3 text-red-800">
               {/* {data.length} */}
-              100
+              101
             </p>
           </div>
           <div className="eligibleforswag w-fit mob:w-full h-20 p-5 space-x-5 rounded-lg flex flex-row justify-evenly mob:justify-between items-center bg-blue-50 shadow-lg shadow-blue-300/30 border border-blue-200">
