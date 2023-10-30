@@ -128,7 +128,7 @@ export default function Home() {
       <TableIndex />
 
       <div className="  w-full p-2 text-center bg-gray-900 text-gray-300">
-        Devloped By{" "}
+        Developed By ❤️{" "}
         <a
           href="https://avayyyyyyy.github.io/shubhlovesweb3/"
           className="text-orange-400"
