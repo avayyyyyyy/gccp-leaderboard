@@ -1,14 +1,15 @@
 import React from "react";
 
-function TableRow({ participant }) {
+function TableRow({ participant, index }) {
   // console.log(participant)
   return (
     <tr className=" border border-b-slate-200 odd:bg-white even:bg-gray-50">
       <td className="Student_Name p-3 uppercase">
+        {index + 1}
+        {". "}
         {participant["Student Name"]}
         {participant["Total Completions of both Pathways"] == "Yes" ? "🏅" : ""}
       </td>
-
 
       <td className="Redemption_Status p-3 relative">
         <div

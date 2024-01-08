@@ -10,6 +10,7 @@ function TableBody({ Participationdata, setParticipationdata }) {
         Participationdata.map((participant, index) => {
           return (
             <TableRow
+              index={index}
               key={participant["Student Email"] || 1}
               participant={participant}
             />
