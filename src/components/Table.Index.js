@@ -5,7 +5,6 @@ import dataArr from "../../public/data.json";
 // import Speedometer from "./Speedometer";
 
 function TableIndex() {
-  // JSON file gone print here
   const imported_data = JSON.stringify(dataArr);
   const data = JSON.parse(imported_data);
   const [Participationdata, setParticipationdata] = useState([...data]);
@@ -16,18 +15,16 @@ function TableIndex() {
     data.forEach((ele) => {
       ele["Total Completions of both Pathways"] == "Yes" && total++;
     });
-    // setEligibleforSwags(total);
     setEligibleforSwags("Top 80");
   };
 
   const searchname = (name) => {
     const newArr = [];
     for (let i = 0; i < data.length; i++) {
-      let participant = data[i]["Student Name"].toLowerCase();
+      let participant = data[i]["User Name"].toLowerCase();
       let match = participant.includes(name.toLowerCase());
       if (match) newArr.push(data[i]);
     }
-    // console.log(newArr);
     setParticipationdata(newArr);
   };
 
@@ -114,23 +111,23 @@ function TableIndex() {
               Name
             </td>
             {/* <td className="p-2 border-r-2 border-r-gray-300">Email</td> */}
-            <td className="p-2 border-r-2 border-r-gray-300">
-              Redemption Status
+            <td className="p-2 border-r-2 border-r-gray-300 max-w-[150px]">
+              Campaign Code Redemption Status
             </td>
-            <td className="mob:hidden p-2 px-10 border-r-2 border-r-gray-300">
-              Institution
+            <td className="mob:hidden p-2 px-10 border-r-2 border-r-gray-300 max-w-[170px]">
+              Profile URL Status
             </td>
             <td className="mob:rounded-se-lg p-2 border-r-2 border-r-gray-300 max-w-[150px]">
-              Completions of both Pathways
+              All 3 Pathways Completed
             </td>
             <td className="mob:hidden p-2 border-r-2 border-r-gray-300 max-w-[150px]">
-              No Courses Completed
+              Prompt Design in Vertex AI Completion
             </td>
             <td className="mob:hidden p-2 border-r-2 border-r-gray-300 max-w-[150px]">
-              No Skill Badges Completed
+              Develop GenAI Apps with Gemini and Streamlit Completion
             </td>
             <td className="mob:hidden rounded-se-lg p-2 max-w-[150px]">
-              GenAI Game Completed
+              Gen AI Arcade Game Completion
             </td>
             {/* <td className="p-2 border-r-2 border-r-gray-300">Enroll Date & Time</td> */}
             {/* <td className="p-2 border-r-2 border-r-gray-300">Enroll. Status</td> */}

@@ -11,7 +11,7 @@ function TableBody({ Participationdata, setParticipationdata }) {
           return (
             <TableRow
               index={index}
-              key={participant["Student Email"] || 1}
+              key={participant["User Email"] || 1}
               participant={participant}
             />
           );
