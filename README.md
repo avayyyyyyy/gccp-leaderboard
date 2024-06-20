@@ -55,4 +55,3 @@ That's it! Your project should now use the updated data.
     
    9. paste JSON data into the public/data.json file
       
-# laveen
