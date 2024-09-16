@@ -130,7 +130,7 @@ export default function Home() {
       <div className="  w-full p-2 text-center bg-gray-900 text-gray-300">
         Developed with ❤️ by{" "}
         <a
-          href="https://avayyyyyyy.github.io/shubhlovesweb3/"
+          href="https://shubhcodes.me"
           className="text-orange-400"
         >
           Shubhankit Jain
